@@ -1,0 +1,37 @@
+body {
+	width: 400px;
+}
+.container {
+	width: 95%;
+	padding: 5px 5px 5px 5px;
+	border: 1px solid gray;
+	box-shadow: 5px 5px 15px 0px;
+	border-radius: 8px;
+	background-color: #6495ED;
+}
+h3 {
+	text-align: center;
+}
+#info {
+	border: 1px solid grey;
+	margin: 5px;
+	padding: 8px;
+	background-color: #FF7F50;
+}
+#animal-image {
+	border: 1px solid gray;
+	display: block;
+	margin: 0px auto 10px auto;
+}
+#fact {
+	font-style: italic;
+}
+.label {
+	font-weight: bold;
+}
+ul {
+	display: inline;
+}
+li {
+	list-style-type: none;
+}
